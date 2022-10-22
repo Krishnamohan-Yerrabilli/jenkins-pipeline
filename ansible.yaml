@@ -2,10 +2,10 @@
   become: true
   tasks: 
      - name: delete old deployment
-       command: kubectl delete -f /home/ubuntu/Deployment.yml
+       command: kubectl delete -f /home/ubuntu/Deployment.yaml
      - name: delete old service
-       command: kubectl delete -f /home/ubuntu/Service.yml
+       command: kubectl delete -f /home/ubuntu/Service.yaml
      - name: create new deployment
-       command: kubectl apply -f /home/ubuntu/Deployment.yml
+       command: kubectl apply -f /home/ubuntu/Deployment.yaml
      - name: create new service
-       command: kubectl apply -f /home/ubuntu/Service.yml
+       command: kubectl apply -f /home/ubuntu/Service.yaml
