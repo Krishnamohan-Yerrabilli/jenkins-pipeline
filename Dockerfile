@@ -19,7 +19,7 @@
 
 FROM  centos:latest
 MAINTAINER mailtomohanse@gmail.com
-RUN yum install zip unzip -y
+RUN yum install unzip -y
 RUN yum install -y httpd \
  zip\
  unzip
