@@ -1,16 +1,16 @@
 kind: Deployment
 apiVersion: apps/v1
 metadata:
-   name: webapp-deploy
+   name: webapp-deployment
 spec:
    replicas: 3
    selector:     
       matchLabels:
-         app: webpage
+         app: webapp-deployment
    template:
       metadata:
          labels:
-            app: webpage
+            app: webapp-deployment
       spec:
          containers:
             - name: webapp-deployment
