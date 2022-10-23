@@ -39,3 +39,13 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 #### Build is successfully 
 
 ![7-build-is-sucessfull-logs](https://user-images.githubusercontent.com/58173938/196871909-df7f8104-5465-45b1-892d-3207c157efc3.png)
+
+
+#### What we have done until now is a manual process, let's automate this stuff. select configure gitSCM
+
+![8-selectconfigure-gitscm](https://user-images.githubusercontent.com/58173938/196872231-04bc8ed2-ffee-42b7-ae05-dd9af2641789.png)
+
+
+
+
+
