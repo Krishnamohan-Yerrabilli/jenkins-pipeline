@@ -45,6 +45,11 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![8-selectconfigure-gitscm](https://user-images.githubusercontent.com/58173938/196872231-04bc8ed2-ffee-42b7-ae05-dd9af2641789.png)
 
+#### Configure web hook
+
+![9-configure-webhook](https://user-images.githubusercontent.com/58173938/196872293-1ed5e5cd-fab4-4e8b-877b-63082590f34d.png)
+
+
 
 
 
