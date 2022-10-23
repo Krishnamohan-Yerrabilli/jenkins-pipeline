@@ -57,6 +57,15 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 #### Save the stuff
 ![11-secret-in-hooks](https://user-images.githubusercontent.com/58173938/196872909-20d69f75-39a6-4370-afed-309f54a9b4e4.png)
 
+#### Reload (You will get a successful checkmark) to sync 
+
+![12-refreshthe-sping](https://user-images.githubusercontent.com/58173938/196873274-9bf34466-0035-4ba8-9f26-36ffb6aa1f91.png)
+
+#### Now let's make a change in Dockerfile and push it to the separate repo we created, 
+*This is the link we paste in Jenkins script*
+
+![12-port22ssh-port-added](https://user-images.githubusercontent.com/58173938/196873168-0f988ee8-5823-4745-b43a-64db01fca136.png)
+
 
 
 
