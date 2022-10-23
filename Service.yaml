@@ -7,7 +7,8 @@ metadata:
 spec:
   ports:
     - port: 8080                               
-      targetPort: 80                    
+      targetPort: 80
+      nodePort: 32145
   selector:
     app: webapp-deployment                    
   type: LoadBalancer                   
