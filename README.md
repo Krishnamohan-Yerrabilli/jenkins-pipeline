@@ -30,3 +30,9 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 #### Enter youre repo name (separate repo we created for [jenkins-pipeline](https://github.com/Krishnamohan-Yerrabilli/jenkins-pipeline))
 
+![jp](https://user-images.githubusercontent.com/58173938/196914329-d18517f8-cb18-4674-8c51-272970f34646.png)
+
+#### We're writing a script using groovy 
+
+![6-groovy-script-gitcheckout](https://user-images.githubusercontent.com/58173938/196871851-67b03569-71c0-436f-a487-d37b922c1c4e.png)
+
