@@ -36,3 +36,6 @@ And push the Dockerfile to a separate [Repository](https://github.com/Krishnamoh
 
 ![6-groovy-script-gitcheckout](https://user-images.githubusercontent.com/58173938/196871851-67b03569-71c0-436f-a487-d37b922c1c4e.png)
 
+#### Build is successfully 
+
+![7-build-is-sucessfull-logs](https://user-images.githubusercontent.com/58173938/196871909-df7f8104-5465-45b1-892d-3207c157efc3.png)
