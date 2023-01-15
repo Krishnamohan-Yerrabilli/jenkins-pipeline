@@ -30,7 +30,6 @@
 #CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 #EXPOSE 80
 
-
 FROM  centos:latest
 MAINTAINER mailtomohan.in@gmail.com
 RUN cd /etc/yum.repos.d/
